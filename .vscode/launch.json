@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NKnights",
+      "request": "launch",
+      "mainClass": "NKnights",
+      "projectName": "java_cp_cf48ec30"
+    },
+    {
+      "type": "java",
       "name": "NQueens",
       "request": "launch",
       "mainClass": "NQueens",
