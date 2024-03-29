@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MazeAllDirections",
+      "request": "launch",
+      "mainClass": "MazeAllDirections",
+      "projectName": "java_cp_cf48ec30"
+    },
+    {
+      "type": "java",
+      "name": "MazeObstacles",
+      "request": "launch",
+      "mainClass": "MazeObstacles",
+      "projectName": "java_cp_cf48ec30"
+    },
+    {
+      "type": "java",
       "name": "MazeRDDg",
       "request": "launch",
       "mainClass": "MazeRDDg",
